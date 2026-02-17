@@ -16,18 +16,11 @@ I am an ECE Graduate passionate about **RTL Design**, **Computer Architecture**,
 
 ### 🏗️ Featured Projects
 
-#### 🔹 [STRV321 RISC-V Processor](link-to-your-repo)
-Implemented a **3-stage pipelined RISC-V processor** (RV32I ISA) in Verilog. 
-* Handled data hazards and pipeline stalls.
-* Verified via waveform analysis in Vivado.
+#### 🔹 [STRV321 RISC-V Processor](Final Capstone Project/Mohammed)
 
 #### 🔹 [Low-Power Dynamic Buffer](link-to-your-repo)
-Designed an optimized buffer circuit in **Cadence Virtuoso**.
-* Achieved an **80.99% reduction in power consumption**.
-* Reduced propagation delay by **296.4ps**.
 
 #### 🔹 [UVM-based FIFO Verification](link-to-your-repo) *(In Progress)*
-Developing a robust verification environment using **SystemVerilog/UVM** to achieve 100% functional coverage for FIFO status flags and data integrity.
 
 ---
 
