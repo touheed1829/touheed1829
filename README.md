@@ -32,5 +32,6 @@ I am an ECE Graduate passionate about **RTL Design**, **Computer Architecture**,
 
 ### 📫 Let's Connect!
 * **LinkedIn:** [linkedin.com/in/mohammed-touheed-598056288/](https://www.linkedin.com/in/mohammed-touheed-598056288/)
+* **Portfolio:** [Mohammed Touheed Portfolio](https://touheeed-portfolio.lovable.app/)
 * **Email:** emailtouheed@gmail.com
 * **Location:** Bengaluru, India 📍
